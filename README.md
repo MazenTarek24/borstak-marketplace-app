@@ -44,12 +44,23 @@ The app is designed with **performance, scalability, and user experience** in mi
 
 ## ✨ Key Features
 
-### 👥 Multi-User Roles
+### 👥 User Roles
 
-* 👤 **Users (Seekers)**: Browse, search, and create listings
-* 🛒 **Buyers**: Find suitable properties or vehicles
-* 🏢 **Agencies**: Respond to requests and send offers
+The platform supports two main user roles with different capabilities:
 
+- 👤 **User (Seeker / Buyer)**
+  - Browse listings  
+  - Search with advanced filters  
+  - Create property or car listings  
+  - Submit requests  
+  - Receive offers from agencies  
+  - Chat after accepting offers  
+
+- 🏢 **Agency**
+  - Browse user requests  
+  - Submit offers  
+  - Communicate with users
+    
 ---
 
 ### 📦 Listings Management
