@@ -19,6 +19,10 @@
   <a href="https://play.google.com/store/apps/details?id=com.borstak.app">
     <img src="https://img.shields.io/badge/Download-Google%20Play-green?logo=google-play" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/eg/app/borstak/id6756817572">
+    <img src="https://img.shields.io/badge/Download-App%20Store-black?logo=apple" />
+  </a>
 </p>
 
 ---
@@ -148,6 +152,13 @@ Built using scalable and maintainable principles:
   <img src="screenshots/user_details.jpeg" width="250"/>
 </p>
 
+### 📩 Offers & Requests
+
+<p align="center">
+  <img src="screenshots/user_offers.jpeg" width="250"/>
+  <img src="screenshots/user_request_details.jpeg" width="250"/>
+</p>
+
 ---
 
 ### 🚗 Create Car Flow
@@ -157,11 +168,6 @@ Built using scalable and maintainable principles:
   <img src="screenshots/user_create_car_step2.jpeg" width="200"/>
   <img src="screenshots/user_create_car_step3.jpeg" width="200"/>
   <img src="screenshots/user_create_car_step4.jpeg" width="200"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/user_offers.jpeg" width="250"/>
-  <img src="screenshots/user_request_details.jpeg" width="250"/>
 </p>
 
 ---
@@ -197,6 +203,7 @@ https://github.com/MazenTarek24
 ## 📌 Notes
 
 * This project represents a **real production-level application**
+* Available on **Google Play & App Store**
 * Source code is **private** due to ownership
 * Focus is on:
 
